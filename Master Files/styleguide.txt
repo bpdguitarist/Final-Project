@@ -1,0 +1,2 @@
+Colors: #000, #50514F, #fff, #FFE066, #70C1B3, #247BA0, and #F25F5C.
+Fonts: "Courier New", Courier, and monospace.
